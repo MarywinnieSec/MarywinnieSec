@@ -4,8 +4,6 @@
 
 I am a cybersecurity professional with a strong focus on Governance, Risk, and Compliance (GRC) and cyber risk management. I hold an MSc in Cybersecurity Risk Management and have hands-on experience translating complex cyber risks into clear, audit-ready, and business-aligned security outcomes. My work sits at the intersection of people, processes, and technology, helping organisations understand their cyber risk exposure, strengthen resilience, and make informed security decisions.
 
----
-
 ## 🔐 Core Focus Areas
 
 * Cybersecurity Risk Assessments & Risk Registers
@@ -15,8 +13,6 @@ I am a cybersecurity professional with a strong focus on Governance, Risk, and C
 * Security policies, standards, and procedures
 * Incident response readiness & risk mitigation planning
 * Third-party and supply chain risk
-
----
 
 ## 🧰 Frameworks, Standards & Tools
 
@@ -34,8 +30,6 @@ I am a cybersecurity professional with a strong focus on Governance, Risk, and C
 * Documentation & reporting for audits
 * Sandbox environments  for proof-of-concept learning
 
----
-
 ## 📌 What You’ll Find on This GitHub
 
 This GitHub space is used to document and showcase:
@@ -44,8 +38,6 @@ This GitHub space is used to document and showcase:
 * GRC-related notes, frameworks, and learning artifacts
 * Sample policies, controls, and governance documentation
 * Practical demonstrations and structured approaches to cyber risk
-
----
 
 ## 🎯 Professional Interests
 
