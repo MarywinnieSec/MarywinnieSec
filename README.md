@@ -45,7 +45,6 @@ This GitHub space is used to document and showcase:
 * Human factors in cybersecurity risk
 * Building security programs that align with business objectives
 
----
 ## 📫 Let’s Connect
 
 * **LinkedIn:** [www.linkedin.com/in/000rt78](http://www.linkedin.com/in/000rt78)
