@@ -1,8 +1,8 @@
 # Hi, I’m Marywinnie 
 
-## Cybersecurity Risk & GRC Professional
+## Cybersecurity Risk and GRC Professional
 
-I am a cybersecurity professional with a strong focus on Governance, Risk, and Compliance (GRC) and cyber risk management. I hold an MSc in Cybersecurity Risk Management and have hands-on experience translating complex cyber risks into clear, audit-ready, and business-aligned security outcomes. My work sits at the intersection of people, processes, and technology, helping organisations understand their cyber risk exposure, strengthen resilience, and make informed security decisions.
+I am a cybersecurity professional with a strong focus on Governance, Risk, compliance and cyber risk management. I hold an MSc in Cybersecurity Risk Management and have hands-on experience translating complex cyber risks into clear, audit-ready and business-aligned security outcomes. My work sits at the intersection of people, processes and technology helping organisations understand their cyber risk exposure, strengthen resilience and make informed security decisions.
 
 ## 🔐 Core Focus Areas
 
